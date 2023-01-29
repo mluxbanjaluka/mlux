@@ -1,5 +1,5 @@
 /* ------------------------------------------------------
-Template Name: Roberto - Hotel & Resort HTML Template
+Template Name: roberto - Hotel & Resort HTML Template
 Template Author: Colorlib
 Template Author URI: https://colorlib.com
 Version: 1.0.0

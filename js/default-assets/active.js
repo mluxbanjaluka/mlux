@@ -40,7 +40,7 @@
             items: 1,
             loop: true,
             autoplay: true,
-            smartSpeed: 1000,
+            smartSpeed: 2500,
             nav: true
         })
 
@@ -155,9 +155,9 @@
             margin: 0,
             loop: true,
             autoplay: true,
-            smartSpeed: 1500,
+            smartSpeed: 2500,
             nav: true,
-            navText: [('<i class="fa fa-long-arrow-left" aria-hidden="true"></i> Previous'), ('Next <i class="fa fa-long-arrow-right" aria-hidden="true"></i>')]
+            navText: [('<i class="fa fa-long-arrow-left" aria-hidden="true"></i> Predhodna'), ('Sledeća <i class="fa fa-long-arrow-right" aria-hidden="true"></i>')]
         });
 
         roomSlides.on('translate.owl.carousel', function () {

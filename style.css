@@ -1,7 +1,7 @@
 /* ------------------------------------------
 [Master Stylesheet]
 
-Template Name: Roberto - Hotel & Resort HTML Template
+Template Name: roberto - Hotel & Resort HTML Template
 Template Author: Colorlib
 Template Author URL: http://colorlib.com
 Version: 1.0.0
@@ -308,8 +308,8 @@ input:focus {
   height: 2.5em;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
-  -webkit-animation: load7 1.8s infinite ease-in-out;
-  animation: load7 1.8s infinite ease-in-out; }
+  -webkit-animation: load7 3.8s infinite ease-in-out;
+  animation: load7 3.8s infinite ease-in-out; }
 
 .loader {
   color: #ffffff;
